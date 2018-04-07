@@ -1,0 +1,15 @@
+*.[oa]
+*.obj
+*.dll
+*.exe
+*.lib
+*~
+*.layout
+*.depend
+/doc/dox/output/*
+!Doxyfile
+/bin/*
+/lib/*
+/tests/*
+
+
